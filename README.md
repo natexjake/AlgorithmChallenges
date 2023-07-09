@@ -1,5 +1,5 @@
 # AlgorithmChallenges
-This repository contains my solutions to coding challenges such as LeetCode, HackerRank, Kaggle, etc. Each platform has its own directory, and solutions are organized based on different categories. This showcases my problem-solving skills, algorithmic problem-solving, and my progress.
+This repository contains my solutions to coding challenges such as LeetCode, HackerRank, Code Signal, etc. Each platform has its own directory, and solutions are organized based on different categories. This showcases my problem-solving skills, algorithmic problem-solving, and my progress.
 
 ## Directory Structure
 
