@@ -5,9 +5,16 @@ This repository contains my solutions to coding challenges such as LeetCode, Hac
 
 The repository is organized as follows:
 
-- `LeetCode/`: Solutions for LeetCode challenges
-- `HackerRank/`: Solutions for HackerRank challenges
-- `Kaggle/`: Solutions for Kaggle challenges
-
+- `LeetCode/Easy`: Easy Solutions for LeetCode challenges
+- `LeetCode/Hard`: Hard Solutions for LeetCode challenges
+- `LeetCode/Medium`: Medium Solutions for LeetCode challenges
+  
+- `HackerRank/Easy`: Easy Solutions for HackerRank challenges
+- `HackerRank/Hard`: Hard Solutions for HackerRank challenges
+- `HackerRank/Medium`: Medium Solutions for HackerRank challenges
+  
+- `Code Signal/Easy`: Easy Solutions for Code Signal challenges
+- `Code Signal/Hard`: Hard Solutions for Code Signal challenges
+- `Code Signal/Medium`: Medium Solutions for Code Signal challenges
 
 
